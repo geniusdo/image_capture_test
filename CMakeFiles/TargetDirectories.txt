@@ -1,0 +1,3 @@
+/home/liuchuangye/c++/videocap/CMakeFiles/rebuild_cache.dir
+/home/liuchuangye/c++/videocap/CMakeFiles/edit_cache.dir
+/home/liuchuangye/c++/videocap/CMakeFiles/cap.dir
